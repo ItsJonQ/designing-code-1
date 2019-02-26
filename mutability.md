@@ -18,7 +18,7 @@ people.pop()
 console.log(people) // ['Zim']
 ```
 
-Using `const` is a good first step, but it will take additional discipline to write in a mutable style.
+Using `const` is a good first step, but it will take additional discipline to write in an immutable style.
 
 ## Arrays
 
@@ -33,7 +33,7 @@ We should aim to achieve the following when performing operations on arrays.
 
 ```javascript
 const list = ['b', 'c']
-list.push('d')    // 4
+list.push('d')    // 3
 list.unshift('a') // 4
 console.log(list) // ['a', 'b', 'c', 'd']
 ```
