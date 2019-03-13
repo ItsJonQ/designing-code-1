@@ -23,3 +23,4 @@
 | ------------------ | ---------- | ---------- | ---------------------------- |
 | Table: Pagination  | 2019-03-13 | Juan Pablo | http://c.hlp.sc/ac96664eeb88 |
 | Table: Ellipsified | 2019-03-13 | Juan Pablo | http://c.hlp.sc/ed7309c2bdc2 |
+| Table: Intro       | 2018-03-08 | Juan Pablo | http://c.hlp.sc/5ad41af5ed37 |
