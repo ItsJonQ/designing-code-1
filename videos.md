@@ -16,3 +16,10 @@
 | ----------------------------------- | ---------- | --- | ------------------------------------------- |
 | HSDS: React: Input add onEnterPress | 2019-03-08 | Q   | https://www.youtube.com/watch?v=gQXVToJ7mMw |
 | Zero: Emulating npm link            | 2019-03-06 | Q   | https://www.youtube.com/watch?v=jtq7gqGFHJs |
+
+## UI Nuggets
+
+| Topic              | Date       | By         | Link                         |
+| ------------------ | ---------- | ---------- | ---------------------------- |
+| Table: Pagination  | 2019-03-13 | Juan Pablo | http://c.hlp.sc/ac96664eeb88 |
+| Table: Ellipsified | 2019-03-13 | Juan Pablo | http://c.hlp.sc/ed7309c2bdc2 |
