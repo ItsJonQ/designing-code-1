@@ -15,6 +15,7 @@
 
 | Topic                               | Date       | By  | Link                                        |
 | ----------------------------------- | ---------- | --- | ------------------------------------------- |
+| HSDS: React: Esc Stack handling     | 2019-03-14 | Q   | https://youtu.be/MK8fNPs5mE0                |
 | HSDS: React: Input add onEnterPress | 2019-03-08 | Q   | https://www.youtube.com/watch?v=gQXVToJ7mMw |
 | Zero: Emulating npm link            | 2019-03-06 | Q   | https://www.youtube.com/watch?v=jtq7gqGFHJs |
 
