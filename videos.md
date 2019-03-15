@@ -4,6 +4,7 @@
 
 | Topic                                 | Date       | By  | Link                                        |
 | ------------------------------------- | ---------- | --- | ------------------------------------------- |
+| Refactoring React Components          | 2019-03-15 | Q   | https://www.youtube.com/watch?v=lGKTTp77p1w |
 | Zero: Overview                        | 2019-03-13 | Q   | https://www.youtube.com/watch?v=S7dpOsji1SQ |
 | HSDS: React: Button                   | 2019-03-13 | Q   | https://www.youtube.com/watch?v=xt_RufAnVvk |
 | HSDS: React: Portal                   | 2019-03-12 | Q   | https://www.youtube.com/watch?v=6QWxh4-akRE |
