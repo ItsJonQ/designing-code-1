@@ -4,6 +4,7 @@
 
 | Topic                                 | Date       | By  | Link                                        |
 | ------------------------------------- | ---------- | --- | ------------------------------------------- |
+| HSDS: React: Event Handling           | 2019-03-18 | Q   | https://www.youtube.com/watch?v=9wQxdl4Ao3U |
 | Refactoring React Components          | 2019-03-15 | Q   | https://www.youtube.com/watch?v=lGKTTp77p1w |
 | Zero: Overview                        | 2019-03-13 | Q   | https://www.youtube.com/watch?v=S7dpOsji1SQ |
 | HSDS: React: Button                   | 2019-03-13 | Q   | https://www.youtube.com/watch?v=xt_RufAnVvk |
