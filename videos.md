@@ -4,6 +4,7 @@
 
 | Topic                                 | Date       | By  | Link                                        |
 | ------------------------------------- | ---------- | --- | ------------------------------------------- |
+| HSDS: React: Checkboxes and Radios    | 2019-03-21 | Q   | https://www.youtube.com/watch?v=xZAPAPH5qtk |
 | HSDS: React: Pop, Tooltip, Popover    | 2019-03-19 | Q   | https://www.youtube.com/watch?v=HPlXTzucgbs |
 | HSDS: React: Event Handling           | 2019-03-18 | Q   | https://www.youtube.com/watch?v=9wQxdl4Ao3U |
 | Refactoring React Components          | 2019-03-15 | Q   | https://www.youtube.com/watch?v=lGKTTp77p1w |
