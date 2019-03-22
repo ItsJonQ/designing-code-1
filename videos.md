@@ -4,6 +4,7 @@
 
 | Topic                                 | Date       | By  | Link                                        |
 | ------------------------------------- | ---------- | --- | ------------------------------------------- |
+| The Era of CSS AF (Architecture Free) | 2019-03-22 | Q   | https://www.youtube.com/watch?v=vIJFJ_fDo-o |
 | HSDS: React: Checkboxes and Radios    | 2019-03-21 | Q   | https://www.youtube.com/watch?v=xZAPAPH5qtk |
 | HSDS: React: Pop, Tooltip, Popover    | 2019-03-19 | Q   | https://www.youtube.com/watch?v=HPlXTzucgbs |
 | HSDS: React: Event Handling           | 2019-03-18 | Q   | https://www.youtube.com/watch?v=9wQxdl4Ao3U |
