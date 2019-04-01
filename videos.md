@@ -4,6 +4,7 @@
 
 | Topic                                 | Date       | By  | Link                                        |
 | ------------------------------------- | ---------- | --- | ------------------------------------------- |
+| HSDS: React: Flexy and Grid           | 2019-04-01 | Q   | https://www.youtube.com/watch?v=lxzDF6sbw40 |
 | The Era of CSS AF (Architecture Free) | 2019-03-22 | Q   | https://www.youtube.com/watch?v=vIJFJ_fDo-o |
 | HSDS: React: Checkboxes and Radios    | 2019-03-21 | Q   | https://www.youtube.com/watch?v=xZAPAPH5qtk |
 | HSDS: React: Pop, Tooltip, Popover    | 2019-03-19 | Q   | https://www.youtube.com/watch?v=HPlXTzucgbs |
