@@ -4,6 +4,7 @@
 
 | Topic                                 | Date       | By  | Link                                        |
 | ------------------------------------- | ---------- | --- | ------------------------------------------- |
+| React/Redux: Inside-Out Pattern       | 2019-04-04 | Q   | https://www.youtube.com/watch?v=NlRELo_iGKU |
 | HSDS: React: Flexy and Grid           | 2019-04-01 | Q   | https://www.youtube.com/watch?v=lxzDF6sbw40 |
 | The Era of CSS AF (Architecture Free) | 2019-03-22 | Q   | https://www.youtube.com/watch?v=vIJFJ_fDo-o |
 | HSDS: React: Checkboxes and Radios    | 2019-03-21 | Q   | https://www.youtube.com/watch?v=xZAPAPH5qtk |
