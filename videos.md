@@ -4,6 +4,7 @@
 
 | Topic                                 | Date       | By  | Link                                        |
 | ------------------------------------- | ---------- | --- | ------------------------------------------- |
+| Cyan: Deep Dive + Exploration         | 2019-05-02 | Q   | https://www.youtube.com/watch?v=6BteV7nIo3g |
 | HSDS: React: DropdownV2 (Part 2)      | 2019-04-29 | Q   | https://www.youtube.com/watch?v=uz7LpgVNtcg |
 | HSDS: React: DropdownV2 (Part 1)      | 2019-04-15 | Q   | https://www.youtube.com/watch?v=ZqSG94gsbsU |
 | React/Redux: Inside-Out Pattern       | 2019-04-04 | Q   | https://www.youtube.com/watch?v=NlRELo_iGKU |
