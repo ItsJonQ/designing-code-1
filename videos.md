@@ -26,6 +26,8 @@
 
 | Topic                               | Date       | By  | Link                                        |
 | ----------------------------------- | ---------- | --- | ------------------------------------------- |
+| CSS-in-JS with Extra Arguments      | 2019-05-16 | Q   | https://www.youtube.com/watch?v=eAoqM90TVn0 | 
+| HSDS: React: With PropProvider      | 2019-05-13 | Q   | https://www.youtube.com/watch?v=MuJGJbcqhas | 
 | Cyan: Introduction + Timer System   | 2019-04-17 | Q   | https://www.youtube.com/watch?v=e6XUQm2clEQ |
 | HSDS: React: Esc Stack handling     | 2019-03-14 | Q   | https://youtu.be/MK8fNPs5mE0                |
 | HSDS: React: Input add onEnterPress | 2019-03-08 | Q   | https://www.youtube.com/watch?v=gQXVToJ7mMw |
