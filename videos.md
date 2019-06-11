@@ -4,6 +4,7 @@
 
 | Topic                                 | Date       | By  | Link                                        |
 | ------------------------------------- | ---------- | --- | ------------------------------------------- |
+| Integrating into Existing Systems     | 2019-06-10 | Q   | https://www.youtube.com/watch?v=SrzFS4FvUcI |
 | CSS: The Object Model                 | 2019-05-06 | Q   | https://www.youtube.com/watch?v=gY6Othr_URw |
 | Cyan: Deep Dive + Exploration         | 2019-05-02 | Q   | https://www.youtube.com/watch?v=6BteV7nIo3g |
 | HSDS: React: DropdownV2 (Part 2)      | 2019-04-29 | Q   | https://www.youtube.com/watch?v=uz7LpgVNtcg |
@@ -37,6 +38,9 @@
 
 | Topic              | Date       | By         | Link                         |
 | ------------------ | ---------- | ---------- | ---------------------------- |
+| Devtool Tips #3    | 2019-06-06 | Juan Pablo | https://www.loom.com/share/7f2a7b423460473e9e6ac3c814a7e2c7 |
+| Devtool Tips #2    | 2019-06-06 | Juan Pablo | https://www.loom.com/share/6456cf5a95594cf8aaafa32c59098c78 |
+| Devtool Tips #1    | 2019-06-06 | Juan Pablo | https://www.loom.com/share/253bffe77cca4635885a5d1acf781669 |
 | Table: Pagination  | 2019-03-13 | Juan Pablo | http://c.hlp.sc/ac96664eeb88 |
 | Table: Ellipsified | 2019-03-13 | Juan Pablo | http://c.hlp.sc/ed7309c2bdc2 |
 | Table: Intro       | 2018-03-08 | Juan Pablo | http://c.hlp.sc/5ad41af5ed37 |
