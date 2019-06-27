@@ -43,13 +43,13 @@ When you approach things in this manner, the tiny implementation details and req
 
 When that "later" comes, you'll most likely experience a wall of hurt. Where things that you thought were easy, turned out to be hard. Where 1 edge case suddenly became 7, and you have no idea how to stich the various bits together.
 
-This is the problem of the traditional "Outside In"
+This is the problem of the traditional "Outside In".
 
 ## Going Deeper
 
 Now that we know what **not** to try, let's try this again.
 
-Take a look at the UI design for 10-20 seconds, and break things down. Rmember, the one we had in the first example wasn't bad. It just wasn't complete.
+Take a look at the UI design for 10-20 seconds, and break things down. Remember, the one we had in the first example wasn't bad. It just wasn't complete.
 
 ![Random Twitter Redesign](./images/twitter-redesign.png)
 
@@ -61,7 +61,7 @@ To approach this with an "Inside Out" perspective, we may start with something l
 
 ![Inside Out 1](./images/inside-out-part-1.png)
 
-Wow. R U serious? That's granualer.
+Wow. R U serious? That's granuler.
 
 Welp, that's the point!
 
